@@ -4,11 +4,11 @@ Descripción General
 
 El sistema de encriptación que implementaremos es el siguiente:
 
-La letra "e" se transforma en "3nter"
-La letra "i" se transforma en "1mes"
-La letra "a" se transforma en "4i"
-La letra "o" se transforma en "0ber"
-La letra "u" se transforma en "7fat"
+-La letra "e" se transforma en "enter"
+-La letra "i" se transforma en "1mes"
+-La letra "a" se transforma en "ai"
+-La letra "o" se transforma en "ober"
+-La letra "u" se transforma en "ufat"
 Requisitos
 Operaciones:
 
@@ -20,8 +20,8 @@ La conversión de texto debe seguir las reglas mencionadas para reemplazar las l
 La aplicación debe ser capaz de revertir el texto encriptado a su forma original y viceversa.
 Ejemplos:
 
-Texto Original: "sol" → Texto Encriptado: "s0l"
-Texto Encriptado: "s0l" → Texto Original: "sol"
+Texto Original: "sol" → Texto Encriptado: "soberl"
+Texto Encriptado: "soberl" → Texto Original: "sol"
 Interfaz de Usuario:
 
 La interfaz debe tener campos para ingresar el texto y botones para elegir entre encriptar o desencriptar.
@@ -37,6 +37,7 @@ Para asegurar un desarrollo eficiente, organizaremos el trabajo en las siguiente
 
 Preparación: Identificar y documentar los requisitos y planificar el alcance del proyecto.
 Desarrollo: Implementar las funcionalidades principales y la interfaz de usuario.
+##Direccion de Proyecto:https://demianzp.github.io/Encriptador/
 Pruebas: Verificar que todas las funcionalidades funcionen correctamente y realizar ajustes según sea necesario.
 Entrega: Finalizar el proyecto, asegurarse de que todo esté en orden y entregar la aplicación.
 Cada fase debe ser completada antes de pasar a la siguiente para asegurar que el proyecto se mantenga en el buen camino.
