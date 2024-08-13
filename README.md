@@ -37,10 +37,9 @@ Para asegurar un desarrollo eficiente, organizaremos el trabajo en las siguiente
 
 Preparación: Identificar y documentar los requisitos y planificar el alcance del proyecto.
 Desarrollo: Implementar las funcionalidades principales y la interfaz de usuario.
-##Direccion de Proyecto:https://demianzp.github.io/Encriptador/
 Pruebas: Verificar que todas las funcionalidades funcionen correctamente y realizar ajustes según sea necesario.
 Entrega: Finalizar el proyecto, asegurarse de que todo esté en orden y entregar la aplicación.
 Cada fase debe ser completada antes de pasar a la siguiente para asegurar que el proyecto se mantenga en el buen camino.
 
-¡Te deseamos mucho éxito en el desarrollo de tu aplicación!
+#Direccion de Proyecto:https://demianzp.github.io/Encriptador/
 
